@@ -7,7 +7,7 @@ The alert will not get turned off, until your battery is over 20% or less than 9
 
 Once the script is ready, set the executable permission.
 
-First of all download the .sh file from this epository.
+First of all download the .sh file from this repository.
 
 Steps to install:
 
