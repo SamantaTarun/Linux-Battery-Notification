@@ -1,7 +1,7 @@
 # Linux-Battery-Notification
 Receive an alert, when the battery level is above 95% or below 20%
 
-This shell script runs in the background on startup and checks the battery status every minute and then sends a notification when the battery level is charged above 95% or discharged less than 20%.
+This shell script runs in the background on startup and checks the battery status every minute and then sends a notification (Please disconnect charger!!) when the battery level is charged above 95% or discharged less than 20% (Please disconnect charger!!).
 
 The alert will not get turned off, until your battery is over 20% or less than 95% charged.
 
